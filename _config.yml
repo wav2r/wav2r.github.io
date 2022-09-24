@@ -32,14 +32,14 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: wav2r
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: Sujin Park
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://twitter.com/
+    - https://github.com/
 google_site_verification: xxxxx
 lang: en
 
