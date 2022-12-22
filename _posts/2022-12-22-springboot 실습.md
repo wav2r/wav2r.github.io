@@ -6,7 +6,7 @@ math: true
 date: 2022-12-23 01:11 +0800
 ---
 
-![graph](/assets/python/graph_ex3.png)
+![home](/assets/python/main_capture.png)
 
 학교에서 과제로 스프링부트를 이용해 간략한 홈페이지를 만들었다.
 
